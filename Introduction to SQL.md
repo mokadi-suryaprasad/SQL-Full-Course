@@ -77,12 +77,12 @@ All use SQL, but with small differences.
 
 🎯 Summary
 
-SQL is used to talk to databases
+- SQL is used to talk to databases
 
-It is easy to learn
+- It is easy to learn
 
-Helps store and manage data
+- Helps store and manage data
 
-Used in many fields (IT, data, apps, DevOps)
+- Used in many fields (IT, data, apps, DevOps)
 
-Very important for interviews
+- Very important for interviews
