@@ -1,1 +1,0 @@
-# MySQL Installation on Windows
